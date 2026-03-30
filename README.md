@@ -35,7 +35,7 @@ Shows how datasets are connected from source to final output.
 
 ### Lead Time by Supplier  
 Shows how long suppliers take to deliver and whether they are on time or delayed.  
-![Lead Time](images/Lead-Time-Status-by-Supplier.png)
+![Lead Time](images/Lead-Time-Status-By-Supplier.png)
 
 ---
 
