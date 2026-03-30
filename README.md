@@ -41,7 +41,7 @@ Shows how long suppliers take to deliver and whether they are on time or delayed
 
 ### Units Received by Warehouse  
 Displays how inventory is distributed across warehouses.  
-![Warehouse Units](images/United-Received-by-Warehouse.png)
+![Warehouse Units](images/Units-Received-by-Warehouse.png)
 
 ---
 
