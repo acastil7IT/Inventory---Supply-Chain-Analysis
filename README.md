@@ -1,7 +1,7 @@
 # Inventory & Supply Chain Analytics (Domo)
 
 ## Overview  
-This project analyzes supply chain data from La-Z-Boy to better understand supplier performance, inventory movement, and product quality. The goal was to build a data pipeline and dashboard that helps identify delays, track warehouse activity, and highlight defects or returns that could impact operations.
+This project analyzes supply chain data to better understand supplier performance, inventory movement, and product quality. The goal was to build a data pipeline and dashboard that helps identify delays, track warehouse activity, and highlight defects or returns that could impact operations.
 
 ---
 
