@@ -1,4 +1,4 @@
-# La-Z-Boy Supply Chain Analytics (Domo)
+# Inventory & Supply Chain Analytics (Domo)
 
 ## Overview  
 This project focuses on analyzing supply chain data using Domo. The goal was to build a complete data pipeline and create dashboards to track supplier performance, warehouse activity, and product quality.
